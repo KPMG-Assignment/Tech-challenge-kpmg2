@@ -9,7 +9,7 @@ sudo tar -C /usr/local -xzf /tmp/go1.15.2.linux-amd64.tar.gz
 
 **2.**  Download the source file
 
-wget https://github.com/ajayk65/kpmgtechchallenge2/blob/main/metadata.go
+wget https://github.com/KPMG-Assignment/Tech-challenge-kpmg2/blob/main/metadata.go
 
 **3.** Execute go script as below to output meta-data on console in json format.  
 
